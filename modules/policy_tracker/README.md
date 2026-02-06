@@ -54,7 +54,6 @@ POST /policy_tracker/policies
 This endpoint records a user's decision for a given policy.
 
 Payload example:
-
 ```json
 {
   "PolicyName": "login_example",
